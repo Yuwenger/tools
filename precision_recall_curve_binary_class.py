@@ -1,4 +1,9 @@
-#coding:utf-8
+# -*- coding: utf-8 -*-
+# @Time    : 2018/3/8 21:32
+# @Author  : Yuweng
+# @Email   :
+# @File    :
+# @Function: 二分类p-r曲线绘制
 
 #画二分类的p-r曲线
 from sklearn import svm, datasets
